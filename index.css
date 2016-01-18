@@ -1,0 +1,21 @@
+#wrapper {
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+}
+.row {
+    width: auto;
+    height: 100px;
+}
+.square {
+    width: 100px;
+    height: 100px;
+    margin: 0px;
+    outline: 1px solid;
+    display: inline-block;
+    float: left;
+    background: #FFFFFF;
+}
